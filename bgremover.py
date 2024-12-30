@@ -11,7 +11,6 @@ with st.sidebar:
     st.caption("Follow me here↓")
 
     st.write("LinkedIn: [LinkedIn](https://www.linkedin.com/in/pranesh-online-b857322a1/)")
-    st.write("Twitter: [Twitter](https://x.com/Pranesh_online?t=yoSYGsYCllvea74qZHjZ8g&s=09)")
 
 img_inp = st.file_uploader("Upload your image here", type=["jpg", "png", "jpeg"], accept_multiple_files=False)
 
